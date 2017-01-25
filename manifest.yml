@@ -3,6 +3,7 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
+  manifest: sdk-for-nodejs
   name: todo-op
   host: todo-op
   disk_quota: 1024M
